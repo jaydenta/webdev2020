@@ -1,0 +1,26 @@
+body {
+    background-color: #cfe2d9;
+}
+
+hr {
+    background-color: none;
+    border-style: dotted none none none;
+    border-width: thick;
+    width: 5%;
+    color: lightgray;
+}
+
+img {
+    height: 100px;
+}
+
+h1 {
+color: #305040;
+text-align: right;
+text-transform: uppercase;
+direction: rtl;
+}
+
+h3{
+color: #305040;
+}
